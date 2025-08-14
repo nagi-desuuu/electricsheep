@@ -1,10 +1,9 @@
 # Introduction
 The Electric Sheep is a cyborg mind. It harnesses the collective intelligence of 450,000 computers and people to create abstract art with mathematics and Darwinian evolution. The result is seamless, organic, and infinite. 
 
-Electric Sheep is an open source project for anyone to use to customize and personalize their screen savers. By compiling and running the instructions of this project, you will have access to different artworks, or Sheeps which will appear on your computer after it falls asleep. Visit the official main website at http://electricsheep.org or the founder's website at http://scottdraves.comfor more detailed information on this project! 
+Electric Sheep is an open source project for anyone to use to customize and personalize their screen savers. By compiling and running the instructions of this project, you will have access to different artworks, or Sheeps which will appear on your computer after it falls asleep. Visit the official main website at http://electricsheep.org or the founder's website at http://scottdraves.com for more detailed information on this project! 
 
 # How to Use
-The rendering engine is a separate project at https://github.com/scottdraves/flam3
 
 Here, at this link, you can find the actual instructions for Electric Sheep. The README file of the linked github provides detailed instructions with the necessary commands you will need for the project. This file contains instructions for Linux users. 
 
@@ -16,6 +15,8 @@ After you have installed and ran the main source code, you can get comfortable w
 
 # Flame Algorithm 
 You can also visit the following website: https://flam3.com/. This website is separate from the main Electric Sheep website and talks about the flame algorithm that you are installing from the source code more in the depth. 
+
+The source code for the rendering engine is located at https://github.com/scottdraves/flam3
 
 # Copyright and License
 Copyright Spotworks LLC
