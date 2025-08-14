@@ -3,7 +3,12 @@ The Electric Sheep is a cyborg mind. It harnesses the collective intelligence of
 
 Electric Sheep is an open source project for anyone to use to customize and personalize their screen savers. By compiling and running the instructions of this project, you will have access to different artworks, or Sheeps which will appear on your computer after it falls asleep. Visit the official main website at http://electricsheep.org or the founder's website at http://scottdraves.com for more detailed information on this project! 
 
-# How to Use
+# Download
+Visit the Electric Sheep website to download pre-compiled builds for Windows and Mac OS X: https://electricsheep.org/#/download
+
+For Linux users, there are special instructions for installation: 
+
+# How to Build
 
 Here, at this link, you can find the actual instructions for Electric Sheep. The README file of the linked github provides detailed instructions with the necessary commands you will need for the project. This file contains instructions for Linux users. 
 
