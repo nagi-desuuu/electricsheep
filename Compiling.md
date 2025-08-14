@@ -1,9 +1,13 @@
 ## Getting the Source ##
 The project source is hosted at Source Forge, on the [[Sheep](http://sourceforge.net/projects/electricsheep/|Electric)] project page, and is available through the [[repository](http://sourceforge.net/svn/?group_id=68853|Subversion)]. If you browse the repository you will see that there are five folders under trunk. Their names and use are as follows:
+
 **client - the reference client, for linux** client\_generic - new Windows client, also runs under Linux, intended to be portable
+
 **client\_osx - MacOS X client** client\_windoze - old Windows client
-**server - old version of the server
-The long term goal is to make client\_generic a cross-platform build, which targets a number of platforms, including MacOS X which is currently being managed as a separate build.**
+
+**server - old version of the server**
+
+The long term goal is to make client\_generic a cross-platform build, which targets a number of platforms, including MacOS X which is currently being managed as a separate build.
 
 ## Building on MS-Windows ##
 ```
