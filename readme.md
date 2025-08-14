@@ -6,7 +6,7 @@ Electric Sheep is an open source project for anyone to use to customize and pers
 # Download
 Visit the Electric Sheep website to download pre-compiled builds for Windows and Mac OS X: https://electricsheep.org/#/download
 
-For Linux users, there are special instructions for installation: 
+For Linux users, there are special instructions for installation: https://github.com/scottdraves/electricsheep/wiki/Compiling
 
 # How to Build
 
